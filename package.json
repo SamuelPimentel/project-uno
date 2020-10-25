@@ -1,0 +1,10 @@
+{
+  "name": "project-uno",
+  "version": "0.0.0",
+  "author": "Samuel Pimentel <samucapimentel@outlook.com>",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT"
+}
